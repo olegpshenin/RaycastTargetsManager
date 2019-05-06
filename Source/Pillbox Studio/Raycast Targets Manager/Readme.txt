@@ -7,6 +7,7 @@ Tool is campatible with any components which inherits unity's Graphic class, inc
 
 Contact:
 
-Oleg Pshenin (oleg.pshenin@gmail.com)
+Oleg Pshenin
+oleg.pshenin@gmail.com
 https://www.linkedin.com/in/oleg-pshenin/
 https://github.com/olegpshenin
